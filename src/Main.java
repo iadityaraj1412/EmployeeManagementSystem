@@ -61,7 +61,7 @@ public class Main {
     // Add Employee
     public static void addEmployee() {
 
-        System.out.println("\n--- Add Employee --");
+        System.out.println("\n--- Add Employee ---");
 
         System.out.print("Enter Employee ID: ");
         int id = scanner.nextInt();
